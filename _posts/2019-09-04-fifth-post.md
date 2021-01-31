@@ -2,6 +2,7 @@
 layout: post
 title: Fifth Post
 author: Dave Mc Dave
+image: /img/corrosion.jpg
 intro: This is the intro for this post. This post has no intro image, just text
 ---
 
