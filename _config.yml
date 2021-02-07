@@ -43,7 +43,7 @@ defaults:
     values:
       author: "C.S. Rhymes"
       layout: post
-      image: /img/home.jpg
+      image: /img/home2.jpg
       show_sidebar: true
   -
     scope:
