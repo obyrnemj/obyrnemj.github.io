@@ -1,8 +1,8 @@
 --- 
 layout: post
-title: Fifth Post
+title: About
 author: Dave Mc Dave
-image: /img/corrosion.jpg
+image: /img/imgEsq.jpg
 intro: This is the intro for this post. This post has no intro image, just text
 ---
 
