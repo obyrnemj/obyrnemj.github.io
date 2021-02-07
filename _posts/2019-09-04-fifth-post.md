@@ -2,7 +2,7 @@
 layout: post
 title: About
 author: Dave Mc Dave
-image: /img/imgEsq.jpg
+image: /img/imgDsq.jpg
 intro: This is the intro for this post. This post has no intro image, just text
 ---
 
