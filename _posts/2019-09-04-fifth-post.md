@@ -1,15 +1,21 @@
 --- 
 layout: post
 title: About
-author: Dave Mc Dave
+author: Dr. M. O'Byrne
 image: /img/imgDsq.jpg
 intro: This is the intro for this post. This post has no intro image, just text
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elit eros, porta eget dapibus vitae, tempus et mi. Maecenas sollicitudin ligula vel metus condimentum, ac commodo sem vestibulum. Morbi tempus dui sapien, vel mattis orci faucibus id. Nulla congue elit vel accumsan mattis. Ut vel dolor porttitor, laoreet risus in, tempus velit. Praesent eu nisi enim. Integer sed venenatis risus, eget semper sapien. Nulla at lacinia lectus. Sed rutrum lectus at vestibulum tristique. Cras ex sem, consequat at dapibus scelerisque, iaculis sit amet tellus. Fusce eu orci ut ex consequat semper. Mauris pharetra dictum dui, vestibulum egestas erat.
+The Underwater Lighting and Turbidity Image Repository (ULTIR) is a collection of high resolution images taken under varying lighting and turbidity levels. The repository allows inspectors to gauge the effectiveness of using image-based algorithms for the purpose of detecting and quantifying damage in an underwater environment, and to establish the limits beyond which damage detection is no longer practical. Moreover, appropriate imagery is often hard to freely come by when evaluating new or existing image-based damage detection methods.
 
-Aliquam diam eros, maximus non consectetur sed, faucibus et risus. Morbi quis velit ultrices, ultrices magna ut, pretium mauris. Sed interdum dolor augue, in ultrices tellus rutrum eu. Donec a tellus gravida, imperdiet sapien et, mollis nibh. Aenean at diam eu diam gravida malesuada. In egestas est arcu, porttitor luctus orci dapibus eu. Maecenas ac justo quam. Sed blandit hendrerit massa, vel semper augue sagittis consequat. Aliquam non finibus massa, a semper est. Etiam ornare elit sed vestibulum semper. Nunc nec blandit augue. Etiam molestie massa et justo luctus sagittis. Suspendisse tincidunt maximus tellus non iaculis. Proin ut sodales magna. Integer cursus orci sit amet diam vehicula molestie. Nam luctus arcu a consequat blandit.
+This repository contains three categories. These relate to:
 
-Nunc accumsan, leo eget porta auctor, odio augue consectetur lectus, sit amet laoreet nibh ex vitae orci. Aliquam erat volutpat. Nunc ultricies magna sem, vitae rhoncus augue commodo vitae. Suspendisse commodo nisl dui, eu maximus tortor rhoncus sit amet. Nulla facilisi. Mauris condimentum massa rhoncus, tempus risus sit amet, elementum turpis. Etiam quis urna tempus, tempus ipsum in, egestas arcu. Duis nibh nibh, vulputate sed fringilla pellentesque, hendrerit at lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus elementum ultrices ultrices. Quisque ac erat pharetra ipsum imperdiet rhoncus. Donec fermentum ante nec scelerisque tempus. Proin at aliquam orci. Quisque interdum nibh eu justo cursus egestas. Integer sed est turpis.
+1) Crack Detection
 
-Aenean nec erat a sapien ornare tincidunt. Nam at lorem nunc. Praesent euismod hendrerit diam in pulvinar. Integer vulputate ligula ut commodo vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed ut turpis in lacus vestibulum rhoncus sed eget arcu. Donec sit amet venenatis est, vitae varius diam. Etiam at dictum ligula. Nullam id turpis sem. Phasellus ut pellentesque risus. Maecenas ultricies dolor a nisi pretium, quis tempor sem pharetra.
+2) Surface Damage Detection
+
+3) 3D Shape Recovery using Stereo-vision
+
+The imagery contained within each category were captured under three lighting levels and three turbidity levels, resulting in nine images for each specimen. These varying levels portray the conditions that may be encountered in an underwater inspection setting.
+
+This repository aims to be as comprehensive as possible and to show the most relevant imagery available. It is continually updated with more pictures. Such an undertaking is only possible with a lot of help. With this in mind we invite the readership to contribute to the repository by submitting good pictures of underwater damage captured under known lighting and turbidity levels
