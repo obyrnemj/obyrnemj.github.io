@@ -1,13 +1,20 @@
 --- 
 layout: post
-title: Third Post
+title: Documentation
+author: Dr. M. O'Byrne
 image: /img/imgC.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elit eros, porta eget dapibus vitae, tempus et mi. Maecenas sollicitudin ligula vel metus condimentum, ac commodo sem vestibulum. Morbi tempus dui sapien, vel mattis orci faucibus id. Nulla congue elit vel accumsan mattis. Ut vel dolor porttitor, laoreet risus in, tempus velit. Praesent eu nisi enim. Integer sed venenatis risus, eget semper sapien. Nulla at lacinia lectus. Sed rutrum lectus at vestibulum tristique. Cras ex sem, consequat at dapibus scelerisque, iaculis sit amet tellus. Fusce eu orci ut ex consequat semper. Mauris pharetra dictum dui, vestibulum egestas erat.
+This page describes the file naming convention and how to use the repository. There is growing interest in the development of image based damage detection methods for the purpose of automated inspection of offshore structures. Image based methods are capable of detecting and quantifying cracks, surface defects, and shape information, which can be key factors when diagnosing the condition of a structure. As with any Non-Destructive Testing (NDT) technique, it is of great practical importance for inspectors to know the effectiveness of  methods when they are applied in the field; in this case, an underwater environment that is characterized by reduced visibility. The degree of visibility is largely affected by lighting and turbidity. This paper describes an open-source Underwater Lighting and Turbidity Image Repository (ULTIR) which features images of various damage forms and material types photographed under controlled lighting and turbidity levels. Good quality imagery is often hard to come by when evaluating new or existing image based damage detection methods. Thus, there are clear benefits of having a large, standardized, well-annotated and freely-available database of images and associated metadata.
 
-Aliquam diam eros, maximus non consectetur sed, faucibus et risus. Morbi quis velit ultrices, ultrices magna ut, pretium mauris. Sed interdum dolor augue, in ultrices tellus rutrum eu. Donec a tellus gravida, imperdiet sapien et, mollis nibh. Aenean at diam eu diam gravida malesuada. In egestas est arcu, porttitor luctus orci dapibus eu. Maecenas ac justo quam. Sed blandit hendrerit massa, vel semper augue sagittis consequat. Aliquam non finibus massa, a semper est. Etiam ornare elit sed vestibulum semper. Nunc nec blandit augue. Etiam molestie massa et justo luctus sagittis. Suspendisse tincidunt maximus tellus non iaculis. Proin ut sodales magna. Integer cursus orci sit amet diam vehicula molestie. Nam luctus arcu a consequat blandit.
+Naming Convention
+Section 1: Cracks
+The first part of the image name reveals the width of the crack. The controlled specimens have crack widths of either 1 mm, 3 mm, or 5 mm.
+The second part of the name describes the nature of the crack. It provides information on attributes such as whether a crack is straight or curved.
+The third part indicates the lighting level. L1, L2, and L3 denote low (100 lux), medium (1,000 lux), and high (10,000 lux) light levels respectively.
+The final part indicates the turbidity level. T1, T2, and T3 correspond to low (0 NTU), medium (6 NTU), and high (12 NTU) turbidity levels respectively.
 
-Nunc accumsan, leo eget porta auctor, odio augue consectetur lectus, sit amet laoreet nibh ex vitae orci. Aliquam erat volutpat. Nunc ultricies magna sem, vitae rhoncus augue commodo vitae. Suspendisse commodo nisl dui, eu maximus tortor rhoncus sit amet. Nulla facilisi. Mauris condimentum massa rhoncus, tempus risus sit amet, elementum turpis. Etiam quis urna tempus, tempus ipsum in, egestas arcu. Duis nibh nibh, vulputate sed fringilla pellentesque, hendrerit at lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus elementum ultrices ultrices. Quisque ac erat pharetra ipsum imperdiet rhoncus. Donec fermentum ante nec scelerisque tempus. Proin at aliquam orci. Quisque interdum nibh eu justo cursus egestas. Integer sed est turpis.
-
-Aenean nec erat a sapien ornare tincidunt. Nam at lorem nunc. Praesent euismod hendrerit diam in pulvinar. Integer vulputate ligula ut commodo vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed ut turpis in lacus vestibulum rhoncus sed eget arcu. Donec sit amet venenatis est, vitae varius diam. Etiam at dictum ligula. Nullam id turpis sem. Phasellus ut pellentesque risus. Maecenas ultricies dolor a nisi pretium, quis tempor sem pharetra.
+Section 2: Surface Damage
+The first part of the image name describes the specimen. It provides information such as the surface type (e.g. concrete or metallic) and the shape of the specimen.
+The second part indicates the lighting level. The lighting levels L1, L2, and L3 correspond to low (100 lux), medium (1,000 lux), and high (10,000 lux) respectively.
+The third part of the name indicates the turbidity level. The turbidity levels T1, T2, and T3 correspond to low (0 NTU), medium (6 NTU), and high (12 NTU) respectively.

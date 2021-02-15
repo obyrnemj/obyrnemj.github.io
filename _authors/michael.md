@@ -3,8 +3,14 @@ short_name: M. O'Byrne
 title: M. O'Byrne - researcher
 name: Dr. M. O'Byrne
 position: Researcher
-avatar: /img/avatar.png
+avatar: /img/generic.png
 researchgate: https://www.researchgate.net/profile/Michael_Obyrne2
 ---
 
-This theme was built by C.S. Rhymes as well as the [Bulma Clean Theme](https://www.csrhymes.com/bulma-clean-theme). 
+Dynamical Systems and Risk Laboratory,
+School of Mechanical & Materials Engineering,
+University College Dublin, Ireland;
+
+Marine Renewable Energy Ireland (MaREI),
+University College Dublin, Ireland.
+email: michael.obyrne@ucd.ie 
