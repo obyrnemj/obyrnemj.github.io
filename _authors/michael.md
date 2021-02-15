@@ -1,7 +1,7 @@
 ---
 short_name: M. O'Byrne
-title: M. O'Byrne - researcher
-name: Dr. M. O'Byrne
+title: Dr. Michael O'Byrne
+name: Dr. Michael O'Byrne
 position: Researcher
 avatar: /img/generic.png
 researchgate: https://www.researchgate.net/profile/Michael_Obyrne2

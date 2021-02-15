@@ -1,8 +1,7 @@
 ---
-title: Vikram
+title: Prof. Vikram Pakrashi
 name: Prof. Vikram Pakrashi
 position: Associate Professor at University College Dublin
-description: Associate Professor at University College Dublin
 avatar: /img/generic.png
 researchgate: https://www.researchgate.net/profile/Vikram_Pakrashi
 ---

@@ -1,8 +1,7 @@
 ---
-title: Bidisha
+title: Prof. Bidisha Ghosh
 name: Prof. Bidisha Ghosh
 position: Assistant Professor (Civil Struct & Env. Eng.)
-description: Assistant Professor (Civil Struct & Env. Eng.)
 avatar: /img/generic.png
 researchgate: https://www.researchgate.net/profile/Bidisha-Ghosh
 ---
