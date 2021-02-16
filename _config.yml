@@ -5,7 +5,7 @@ email: your-email@domain.com
 description: >
   Extending the role of imaging in underwater inspections
 baseurl: "/"
-url: "https://obyrnemj.github.io/"
+url: "https://ultir.github.io/"
 permalink: pretty
 
 paginate: 7
