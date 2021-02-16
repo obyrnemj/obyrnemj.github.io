@@ -9,4 +9,4 @@ intro_image: /img/cracks.png
 intro_image_ratio: is-9by16
 ---
 
-The dataset of underwater crack images can be found here: <p><a href="https://drive.google.com/file/d/16K3PyJpamMaF_R83Mxm9guKeuMRfvIY2/view?usp=sharing">Underwater cracks dataset</a></p> 
+The dataset of underwater crack images can be found here: <a href="https://drive.google.com/file/d/16K3PyJpamMaF_R83Mxm9guKeuMRfvIY2/view?usp=sharing">Underwater cracks dataset</a>
