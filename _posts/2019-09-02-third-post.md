@@ -14,7 +14,11 @@ The second part of the name describes the nature of the crack. It provides infor
 The third part indicates the lighting level. L1, L2, and L3 denote low (100 lux), medium (1,000 lux), and high (10,000 lux) light levels respectively.
 The final part indicates the turbidity level. T1, T2, and T3 correspond to low (0 NTU), medium (6 NTU), and high (12 NTU) turbidity levels respectively.
 
+<img src="/img/CrackNamingConvention1.png" alt="Crack naming convention" width="957" height="459">
+
 Section 2: Surface Damage
 The first part of the image name describes the specimen. It provides information such as the surface type (e.g. concrete or metallic) and the shape of the specimen.
 The second part indicates the lighting level. The lighting levels L1, L2, and L3 correspond to low (100 lux), medium (1,000 lux), and high (10,000 lux) respectively.
 The third part of the name indicates the turbidity level. The turbidity levels T1, T2, and T3 correspond to low (0 NTU), medium (6 NTU), and high (12 NTU) respectively.
+
+<img src="/img/SurfaceNamingConvention1.png" alt="Surface naming convention" width="957" height="459">
