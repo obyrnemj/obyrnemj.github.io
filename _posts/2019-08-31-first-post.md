@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Additional datasets
+author: Dr. M. O'Byrne
 image: /img/imgB2.jpg
 ---
 

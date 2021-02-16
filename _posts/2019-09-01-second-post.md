@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Contents
+author: Dr. M. O'Byrne
 image: /img/imgE2.jpg
 ---
 
